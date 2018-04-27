@@ -30,7 +30,7 @@
     "react-icons": "2.2.7",
     "react-typography": "0.16.13",
     "styled-components": "2.4.0",
-    "typography": "0.16.6",
+    "typography": "0.16.17",
     "typography-breakpoint-constants": "0.15.10",
     "typography-plugin-code": "0.16.11",
     "webfontloader": "1.6.28"
